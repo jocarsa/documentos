@@ -29,8 +29,10 @@ Para que tu actividad pueda tener la máxima nota, deberá contener los siguient
 - Ortografía y gramática correctas.
 - Organización en párrafos o viñetas para mayor claridad.
 - Evitar frases ambiguas o incompletas.
+- Usa tu propia forma de expresarte al tiempo que usa un lenguaje correcto.
 
 ## IMPORTANTE
-1. Desarrolla el contenido de tu respuesta en un editor de texto, y luego pégalo en el área de texto de la actividad/examen.  
-2. Desarrolla el código en un editor de código, compílalo, comprueba que funciona, y **sólo entonces** incorpóralo al contenido de tu respuesta.  
-3. **TODO EL CÓDIGO DEBE SER VÁLIDO Y FUNCIONAR.**
+- Desarrolla el contenido de tu respuesta en un editor de texto, y luego pégalo en el área de texto de la actividad/examen.
+-  Desarrolla el código en un editor de código, compílalo, comprueba que funciona, y **sólo entonces** incorpóralo al contenido de tu respuesta.  
+- **TODO EL CÓDIGO DEBE SER VÁLIDO Y FUNCIONAR.**
+- Desarrolla tu propio texto y tu propio código - no plagies.
