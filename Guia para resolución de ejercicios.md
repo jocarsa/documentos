@@ -179,6 +179,8 @@ Hay que tener en cuenta que debemos cerrar tantos paréntesis como hayamos abier
 Como hemos visto, la librería matemática nos va a ayudar a realizar operaciones complejas de forma sencilla y predecible.
 
 Más adelante, podremos comprobar la utilidad de la librería matemática en programas más grandes.
+
+
 ---
 
 
