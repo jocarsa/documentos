@@ -2,11 +2,11 @@
 
 ## Recibís el enunciado del ejercicio (previsiblemente adaptado a vuestro perfil)
 Ejemplo:
--Crea un programa en JavaScript que represente el marcador de un partido de fútbol.
--Declara tres variables: una para los goles del equipo local, otra para los goles del equipo visitante y otra para el total de goles.
--Asigna a las variables de los equipos un número cualquiera de goles.
--Calcula el total de goles sumando los dos valores.
--Muestra por pantalla con document.write los goles de cada equipo y el total del partido.
+- Crea un programa en JavaScript que represente el marcador de un partido de fútbol.
+- Declara tres variables: una para los goles del equipo local, otra para los goles del equipo visitante y otra para el total de goles.
+- Asigna a las variables de los equipos un número cualquiera de goles.
+- Calcula el total de goles sumando los dos valores.
+- Muestra por pantalla con document.write los goles de cada equipo y el total del partido.
 
 ## En primer lugar os vais al IDE que queráis, y resolvéis el ejercicio (y que funcione)
 
